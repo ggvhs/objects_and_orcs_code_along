@@ -7,3 +7,5 @@ const adventurer = {
 console.log(adventurer.belongings)
 
 console.log(adventurer.belongings[0])
+
+console.log('abc');
